@@ -1,0 +1,29 @@
+
+.cvb{
+    color: blue;
+}
+#ali {
+    background-color: red
+}
+nav a{
+    padding-right: 20px;
+    text-decoration:none;
+    text-align: center;
+}
+nav{
+    text-align: center;
+}
+main{
+    text-align: center;
+}
+main h4{
+    font-size: 20px;
+}
+footer div {
+    text-align: center;
+    background-color:black;
+    color: brown;
+    padding-bottom: 10px;
+    padding-top:10px;
+    
+}

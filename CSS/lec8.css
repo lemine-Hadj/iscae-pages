@@ -1,0 +1,77 @@
+body{
+    perspective: 600px;
+    /* perspective-origin:right
+     ; */
+}
+
+
+/* img{
+    height: 400px;
+    width: 400px;
+    display: block;
+    margin: auto;
+    transition: all=attributs .5s ease-in-out;
+}
+img:hover{
+    /* 2d */
+    /* transform: translate(0px,100px); */
+    /* transform: translateX();
+    transform: translateX(); */
+    /* transform: scale(1.5,1); */
+    /* transform: rotate(360deg);
+    rotayex:
+    rotatey: ; */
+    /* transform: skewY(5deg); */
+    /* transform: skewX(5deg); */
+    /* 2d */
+
+    /* 3d  */
+    /* transform: translateZ(50px); */
+    /* transform: translate3d(100px,100px,200px); */
+/* transform: rotateY(50deg) scale3d(2,2,3)
+
+}
+*/
+/* .div1{
+    perspective: 400px;
+    /* perspective-origin:left ;
+    } */
+
+/* .div2{
+    perspective: 600px;
+    /* perspective-origin:right ;
+    } */
+
+/* .div3{
+    perspective: 1800px;
+}
+img{
+    width: 300px;
+    height: 300px;
+display: block;
+margin: auto;
+margin-bottom: 100px;
+}
+img:hover{
+transform: translateZ(99px);
+transition: l;
+}
+ */
+/* div{
+    background-color: blue;
+    width: 200px;
+    height: 400px;
+    animation: div 5s ease infinite alternate-reverse;
+}
+@keyframes div{
+
+from{
+      background-color: seagreen;
+    }
+to{
+    background-color: red;
+    
+}
+} */
+ 
+

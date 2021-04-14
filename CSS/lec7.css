@@ -1,0 +1,134 @@
+ *{
+    padding: 0;
+    margin: 0;
+}
+/*  
+.oussama{
+    background-color:red ;
+    height: 800px;
+    width: 100%;
+    display: flex;
+    flex-direction:row;
+    
+
+    /* justify-content: center; */
+    /* justify-content: space-between; */
+    /* justify-content: center; */
+    /* justify-content: flex-end;
+      */
+
+      /* align-items: flex-end; */
+       
+
+      /* align-content: center;  */
+      /* order: ; */
+      /* align-items: stretch;
+   
+} */
+/* .oussama div{
+    background-color: black;
+    color: cornsilk;
+    height: 150px;
+    width: 200px;
+    text-align: center;
+    margin:10px;
+
+}
+.o{
+    /* flex-shrink: ; */
+    /* flex-grow: 2; */
+    /* flex-basis: 300px; width: ;o */
+/* } */
+/* .s{ */
+    /* flex-grow: 4; */
+/* } */ 
+
+/* div{
+    margin: 20px 0px;
+    padding: 10px;
+    background-color: red;
+    color: white;
+    line-height: 2;
+
+
+    column-count:3 ;
+    column-gap: 160px; /*space whis paragraphs*/
+    /* column-rule: 5px solid black; */
+    /* width: ;style color: ; */
+    /* column-span: all;
+
+    padding-top: 50px;
+
+    padding-bottom: 50px;
+    
+}
+h1{
+    column-span: all;
+    text-align: center;
+    margin-bottom: 30px;
+
+} */ 
+h1{
+    font-size: 50px;
+}
+
+@media only screen and (max-width:500px){
+    h2{
+        font-size: 16px;
+        color:blue;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
